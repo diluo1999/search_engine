@@ -1,4 +1,4 @@
-**Full specs are met**
+## Querier specifications
 
 In this lab you'll continue the Tiny Search Engine (TSE) by coding the Querier according to the [Requirements Spec](REQUIREMENTS.md).
 
